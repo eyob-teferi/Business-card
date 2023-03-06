@@ -1,0 +1,23 @@
+body{
+    margin:20px;
+}
+.avatar{
+    width:150px;
+    border-radius:5px
+}
+.card{
+    display:flex;
+    padding:20px;
+    border-bottom: 4px solid rgb(86, 110, 103);
+    justify-content: space-around;
+    color:#4e4961;
+    text-align: center;
+    width:400px;
+    margin:0 auto;
+    background-color: rgb(48, 187, 180);
+    border-radius:20px;
+    box-shadow:0 1px 10px rgb(119, 36, 15);
+    font-family:serif;
+}
+
+
